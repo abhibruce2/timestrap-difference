@@ -1,0 +1,20 @@
+.background-with-text { 
+  background-image: url('https://www.w3schools.com/w3css/img_lights.jpg'); 
+  background-repeat: repeat; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  margin-top: 200px; 
+  font-size: 120px; 
+  text-align: center; 
+  font-weight: bold; 
+  text-transform: uppercase; 
+  font-weight: 800; 
+  -webkit-font-smoothing: antialiased; 
+} 
+h3 { 
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAabCuA6SplnHik4poOkXU4pnzUQLX-s5eQ&usqp=CAU'); 
+  background-repeat: repeat; 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+  -webkit-font-smoothing: antialiased; 
+} 
