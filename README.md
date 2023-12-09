@@ -1,0 +1,2 @@
+Npm i 
+Npm Start
